@@ -1,0 +1,25 @@
+{
+  "name": "viberbot",
+  "version": "1.0.0",
+  "description": "viber webhook test;",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "viber",
+    "bot",
+    "viberbot"
+  ],
+  "author": "Sal",
+  "license": "ISC",
+  "dependencies": {
+    "custom-env": "^2.0.1",
+    "novelcovid": "^1.0.6",
+    "viber-bot": "^1.0.16"
+  }
+}
